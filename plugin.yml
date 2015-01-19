@@ -1,0 +1,7 @@
+name: Versus
+main: me.khris1011.Versus
+version: 1.0
+commands:
+   Versus:
+      description: Blank description
+      usage: /<command>
